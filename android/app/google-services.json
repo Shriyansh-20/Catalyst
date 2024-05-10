@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793772436224",
+    "project_id": "catalyst-2580-firebase",
+    "storage_bucket": "catalyst-2580-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793772436224:android:f2bf94c6a2e1cd2656e1e5",
+        "android_client_info": {
+          "package_name": "com.example.catalyst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9oZBB6CeypXL2mrP5voMS1Mjh6ml0Izw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
